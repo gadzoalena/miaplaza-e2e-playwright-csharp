@@ -38,6 +38,7 @@ Before you can run the tests in this project, you'll need to have the following 
     ```
 
 4. Install Playwright Browsers:
+(before you install the first time you may need to build with dotnet build)
     ```sh
     playwright install
     ```
