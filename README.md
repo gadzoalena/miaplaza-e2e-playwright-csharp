@@ -21,7 +21,7 @@ Before you can run the tests in this project, you'll need to have the following 
 
 1. Clone the repository using Git:
     ```sh
-    git clone https://github.com/yourusername/miaplaza-e2e-playwright-csharp.git
+    git clone https://github.com/gadzoalena/miaplaza-e2e-playwright-csharp.git
     cd miaplaza-e2e-playwright-csharp
     ```
 
